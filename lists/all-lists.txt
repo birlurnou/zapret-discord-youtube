@@ -1,0 +1,4 @@
+list-general.txt
+list-instagram.txt
+list-utorrent.txt
+list-telegram.txt
