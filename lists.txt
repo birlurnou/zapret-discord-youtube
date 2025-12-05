@@ -1,0 +1,5 @@
+list-general
+list-google
+list-instagram
+list-telegram
+list-whatsapp
