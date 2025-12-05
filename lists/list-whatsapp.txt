@@ -1,0 +1,17 @@
+WhatsApp Call | UDP 3482
+WhatsApp Call | UDP 3478
+WhatsApp Chat | TCP 80
+WhatsApp Chat | TCP 443
+WhatsApp Chat | TCP 5222
+whatsapp.net
+whatsapp.com
+wa.me
+wl.co
+whatsappbrand.com
+whatsapp.cc
+whatsapp.org
+whatsapp-plus.info
+whatsapp-plus.me
+whatsapp.tv
+whatsapp-plus.net
+whatsapp.info
